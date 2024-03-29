@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=blue&height=300&section=header&text=wellcome%20to%20kyeong-jin's%20github&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=wellcome%20to%20kyeong-jin's%20github&fontSize=50)
 <h3 align="center"></h3>
 
 
