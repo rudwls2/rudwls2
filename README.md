@@ -27,16 +27,16 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
   <br>
 </div>
-
+<br>
 
 <div><h1>🎓Education🎓</h1></div>
 <div>※ ITWILL 프로젝트 기반 자바 핀테크 웹 개발자 양성과정 (2023.05. ~ 2023.11.)</div>
-
+<br>
 
 <div><h1>📜Project📜</h1></div>
 <div>음악사이트 망고뮤직- https://github.com/rudwls2/itwill_project</div>
-
+<br>
 
 <div><h1>📫contact📫</h1></div>
 <a href="mailto:ckrudwls8@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ckrudwls8@gmail.com"/></a>
-
+<br>
