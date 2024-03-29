@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Hello!%20it's%20kyeong-jin's%20github👋&fontSize=40)
 
-<div><h1>🌱tech stack🌱</h1></div>
+<div><h1>🌱Tech Stack🌱</h1></div>
+<div><h4>Techs that I've used at least once</h4></div>
 <div>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
@@ -28,8 +29,8 @@
   <br>
 </div>
 
-<div><h1>🎓education🎓</h1></div>
+<div><h1>🎓Education🎓</h1></div>
 <div>※ ITWILL 프로젝트 기반 자바 핀테크 웹 개발자 양성과정 (2023.05. ~ 2023.11.)</div>
 
-<div><h1>📜 project📜 </h1></div>
+<div><h1>📜Project📜 </h1></div>
  음악사이트 망고뮤직-
