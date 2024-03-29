@@ -32,4 +32,4 @@
 <div>※ ITWILL 프로젝트 기반 자바 핀테크 웹 개발자 양성과정 (2023.05. ~ 2023.11.)</div>
 
 <div><h1>📜Project📜 </h1></div>
- 음악사이트 망고뮤직- https://github.com/rudwls2/itwill_project
+<div>음악사이트 망고뮤직- https://github.com/rudwls2/itwill_project</div>
