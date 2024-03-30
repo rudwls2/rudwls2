@@ -36,9 +36,11 @@
 <div><h1>📜Project📜</h1></div>
 <div>음악사이트 망고뮤직- https://github.com/rudwls2/itwill_project</div>
 <br>
+<p><img src="https://github.com/rudwls2/rudwls2/assets/128288374/e3f751b8-2ddc-4d93-82e5-06522233aafb"></p>
+<br>
 
 <div><h1>📫contact📫</h1></div>
 <a href="mailto:ckrudwls8@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ckrudwls8@gmail.com"/></a>
 <br>
 
-<p><img src="https://github.com/rudwls2/rudwls2/assets/128288374/e3f751b8-2ddc-4d93-82e5-06522233aafb"></p>
+
