@@ -37,7 +37,8 @@
 <div>음악사이트 망고뮤직- https://github.com/rudwls2/itwill_project</div>
 <br>
 <br>
-<p><img src="https://github.com/rudwls2/rudwls2/assets/128288374/e3f751b8-2ddc-4d93-82e5-06522233aafb"></p>
+<p><img src="https://github.com/rudwls2/rudwls2/assets/128288374/e4d82ea7-5724-4fab-b305-0ef1d4098518"></p>
+<p><img src="https://github.com/rudwls2/rudwls2/assets/128288374/f508728f-37c2-46da-8608-a3a7d2da02b8"></p>
 <br>
 
 <div><h1>📫contact📫</h1></div>
