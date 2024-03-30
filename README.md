@@ -41,4 +41,4 @@
 <a href="mailto:ckrudwls8@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ckrudwls8@gmail.com"/></a>
 <br>
 
-<p><img src="![mango_order1](https://github.com/rudwls2/rudwls2/assets/128288374/e3f751b8-2ddc-4d93-82e5-06522233aafb)"></p>
+<p><img src="https://github.com/rudwls2/rudwls2/assets/128288374/e3f751b8-2ddc-4d93-82e5-06522233aafb"></p>
